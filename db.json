@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "tweet": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec qu",
+      "createdAt": "2022-10-21T06:02:45.154Z",
+      "id": 2
+    },
+    {
+      "tweet": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec qu",
+      "createdAt": "2022-10-21T06:04:11.483Z",
+      "id": 3
+    },
+    {
+      "tweet": "Character limit is 200!",
+      "createdAt": "2022-10-21T06:48:09.058Z",
+      "id": 4
+    },
+    {
+      "tweet": "Post button is disabled when input field is empty.",
+      "createdAt": "2022-10-21T06:48:25.501Z",
+      "id": 5
+    },
+    {
+      "tweet": "This uses JSON Server as local storage.",
+      "createdAt": "2022-10-21T06:51:45.806Z",
+      "id": 6
+    }
+  ]
+}
