@@ -4,10 +4,10 @@ export {
   Flex,
   Button,
   Card,
-  Input,
   Heading,
   Paragraph,
   Container,
+  Textarea,
 } from 'theme-ui'
 
 // Themes go here

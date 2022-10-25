@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react'
-import { Button, Box, Heading, Input } from '../ui'
+import { useState } from 'react'
+import { Button, Box, Heading, Textarea } from '../ui'
 
 const TweetForm = () => {
   const date = new Date()
@@ -43,14 +43,13 @@ const TweetForm = () => {
             justifyContent: 'center',
           }}
         >
-          <Input
+          <Textarea
             placeholder="What's happening? "
             maxLength={200}
             value={post.tweet}
             onChange={(e) => updateTweet({ tweet: e.target.value })}
-            sx={{
-              height: '80px',
-            }}
+            cols='30'
+            rows='5'
           />
           <Button mt={2} type='submit' disabled={!post.tweet}>
             Post

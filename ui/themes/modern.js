@@ -16,7 +16,7 @@ const modern = merge(base, {
     },
   },
   forms: {
-    input: {},
+    textarea: {},
   },
 
   container: {

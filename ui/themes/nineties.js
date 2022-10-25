@@ -40,7 +40,7 @@ const nineties = merge(base, {
     },
   },
   forms: {
-    input: {
+    textarea: {
       fontFamily: 'body',
       borderRadius: 0,
       backgroundColor: '#FFE2E2',

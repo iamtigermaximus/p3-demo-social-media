@@ -49,7 +49,7 @@ const dark = merge(base, {
   },
 
   forms: {
-    input: {
+    textarea: {
       fontFamily: 'body',
       borderRadius: 0,
       backgroundColor: '#F2EBE9',
