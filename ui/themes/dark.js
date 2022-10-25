@@ -11,7 +11,7 @@ const dark = merge(base, {
   colors: {
     text: 'white',
     background: '#082032',
-    secondary: 'yellow',
+    secondary: 'red',
   },
 
   buttons: {

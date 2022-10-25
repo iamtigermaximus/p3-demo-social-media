@@ -19,11 +19,6 @@
       "tweet": "Post button is disabled when input field is empty.",
       "createdAt": "2022-10-21T06:48:25.501Z",
       "id": 5
-    },
-    {
-      "tweet": "This uses JSON Server as local storage.",
-      "createdAt": "2022-10-21T06:51:45.806Z",
-      "id": 6
     }
   ]
 }
